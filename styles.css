@@ -91,3 +91,126 @@ footer{background:#031019;color:#8fa2ae;padding:28px 7vw;display:flex;justify-co
 .ask-charles{position:relative;overflow:hidden}
 .ask-charles:after{content:"";position:absolute;width:360px;height:360px;border:1px solid rgba(105,209,255,.12);border-radius:50%;right:-90px;top:-120px;pointer-events:none}
 @media(max-width:560px){.voice-link{width:100%;justify-content:center}}
+
+body {
+  font-family: "Candara", "Calibri", Arial, sans-serif;
+  font-style: italic;
+  font-size: 12px;
+  line-height: 1.55;
+}
+
+/* Main headings — Candara Bold */
+h1, h2, h3,
+.logo,
+strong,
+b,
+.button,
+.kicker,
+.label,
+.tag,
+.soon,
+.number {
+  font-family: "Candara", "Calibri", Arial, sans-serif;
+  font-style: normal;
+  font-weight: 700;
+}
+
+/* Main heading */
+h1 {
+  font-size: 16px;
+  line-height: 1.25;
+  letter-spacing: 0;
+}
+
+/* Section headings */
+.section h2,
+.philosophy h2,
+.journey h2,
+.ask-charles h2 {
+  font-size: 16px;
+  line-height: 1.3;
+}
+
+/* Sub-headings */
+h3,
+.journey-item h3,
+.cap-grid h3,
+.insight-card h3 {
+  font-size: 16px;
+  line-height: 1.3;
+}
+
+/* Normal content */
+p,
+.copy,
+.lead,
+.section-intro,
+.journey-item p,
+.cap-grid p,
+.insight-card p,
+.contact-box p {
+  font-family: "Candara", "Calibri", Arial, sans-serif;
+  font-style: italic;
+  font-size: 12px;
+}
+
+/* Navigation and small labels */
+.nav,
+.kicker,
+.label,
+.tag,
+.soon,
+.locations,
+.voice-link,
+.button,
+.number,
+footer {
+  font-family: "Candara", "Calibri", Arial, sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 10px;
+}
+
+/* Hero title */
+.hero h1 {
+  font-family: "Candara", "Calibri", Arial, sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+}
+
+/* Hero supporting text */
+.hero .lead {
+  font-size: 12px;
+  font-style: italic;
+}
+
+/* Philosophy / belief text */
+.belief-row strong,
+.belief-row small {
+  font-family: "Candara", "Calibri", Arial, sans-serif;
+}
+
+.belief-row strong {
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.belief-row small {
+  font-size: 10px;
+  font-style: italic;
+}
+
+/* Industry names */
+.industry-grid span {
+  font-family: "Candara", "Calibri", Arial, sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+/* Footer */
+footer {
+  font-size: 10px;
+}
