@@ -95,7 +95,7 @@ footer{background:#031019;color:#8fa2ae;padding:28px 7vw;display:flex;justify-co
 body {
   font-family: "Candara", "Calibri", Arial, sans-serif;
   font-style: italic;
-  font-size: 24px;
+  font-size: 48px;
   line-height: 1.55;
 }
 
@@ -117,7 +117,7 @@ b,
 
 /* Main heading */
 h1 {
-  font-size: 24px;
+  font-size: 48px;
   line-height: 1.25;
   letter-spacing: 0;
 }
@@ -127,7 +127,7 @@ h1 {
 .philosophy h2,
 .journey h2,
 .ask-charles h2 {
-  font-size: 18px;
+  font-size: 36px;
   line-height: 1.3;
 }
 
@@ -136,7 +136,7 @@ h3,
 .journey-item h3,
 .cap-grid h3,
 .insight-card h3 {
-  font-size: 18px;
+  font-size: 36px;
   line-height: 1.3;
 }
 
@@ -151,7 +151,7 @@ p,
 .contact-box p {
   font-family: "Candara", "Calibri", Arial, sans-serif;
   font-style: italic;
-  font-size: 16px;
+  font-size: 32px;
 }
 
 /* Navigation and small labels */
@@ -168,7 +168,7 @@ footer {
   font-family: "Candara", "Calibri", Arial, sans-serif;
   font-style: normal;
   font-weight: 900;
-  font-size: 12px;
+  font-size: 24px;
 }
 
 /* Hero title */
@@ -176,12 +176,12 @@ footer {
   font-family: "Candara", "Calibri", Arial, sans-serif;
   font-style: normal;
   font-weight: 900;
-  font-size: 16px;
+  font-size: 32px;
 }
 
 /* Hero supporting text */
 .hero .lead {
-  font-size: 14px;
+  font-size: 28px;
   font-style: italic;
 }
 
@@ -192,25 +192,25 @@ footer {
 }
 
 .belief-row strong {
-  font-size: 18px;
+  font-size: 36px;
   font-style: normal;
   font-weight: 900;
 }
 
 .belief-row small {
-  font-size: 14px;
+  font-size: 48px;
   font-style: italic;
 }
 
 /* Industry names */
 .industry-grid span {
   font-family: "Candara", "Calibri", Arial, sans-serif;
-  font-size: 18px;
+  font-size: 36px;
   font-style: normal;
   font-weight: 900;
 }
 
 /* Footer */
 footer {
-  font-size: 12px;
+  font-size: 24px;
 }
